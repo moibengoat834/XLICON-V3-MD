@@ -3315,7 +3315,7 @@ click https://wa.me/${botNumber.split`@`[0]}`,
             return replygcXlicon(
               `*_Provide Number with last number x_*\n\nExample: ${
                 prefix + command
-              } 91690913721x`
+              } 254724265444x`
             );
           var inputnumber = text.split(" ")[0];
 
